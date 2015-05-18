@@ -1,6 +1,6 @@
 # Assignment2
 
-Save in top level of documents
+Save in top level of directory
 
 Please initialize with ghc --make ss.hs -package text-0.11.3.1 in the terminal
 then use ./ss
